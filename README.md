@@ -10,4 +10,9 @@ Development of websites, components, modules and plugins. Main specialization: J
 ![PhpStorm](https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid)
 
 <!-- BLOG-POST-LIST:START -->
+- [Feedback - модуль-конструктор простых контактных форм для Joomla CMS](https://devstratum.ru/software/feedback-modul-konstruktor-prostykh-kontaktnykh-form-dlya-joomla-cms)
+- [Metadesc - редактирование мета тегов описания description для Joomla CMS](https://devstratum.ru/software/metadesc-redaktirovanie-meta-tegov-opisaniya-description-dlya-joomla-cms)
+- [Amiga 1200 #03: контроллеры PS/2 клавиатуры и мыши, прошивка FDD Gotek](https://devstratum.ru/hardware/amiga-1200-03-kontrollery-ps-2-klaviatury-i-myshi-proshivka-fdd-gotek)
+- [Разгон CPU Xeon E5-2650 v2 и GPU Radeon RX 470](https://devstratum.ru/hardware/razgon-cpu-xeon-e5-2650-v2-i-gpu-radeon-rx-470)
+- [Тестирование нейросети ESRGAN для детализации изображений](https://devstratum.ru/software/testirovanie-nejroseti-esrgan-dlya-detalizatsii-izobrazhenij)
 <!-- BLOG-POST-LIST:END -->
