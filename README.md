@@ -9,6 +9,7 @@ Development of websites, components, modules and plugins. Main specialization: J
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![PhpStorm](https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid)
 
+## Latest articles devstratum.ru
 <!-- BLOG-POST-LIST:START -->
 - [Metadesc - редактирование мета тегов описания description для Joomla CMS](https://devstratum.ru/software/metadesc-redaktirovanie-meta-tegov-opisaniya-description-dlya-joomla-cms)
 - [Разгон CPU Xeon E5-2650 v2 и GPU Radeon RX 470](https://devstratum.ru/hardware/razgon-cpu-xeon-e5-2650-v2-i-gpu-radeon-rx-470)
