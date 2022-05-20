@@ -10,12 +10,3 @@ Development of websites, components, modules and plugins. Joomla CMS, Yii framew
 ![PhpStorm](https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid)
 
 Computer hardware, electronics, retrotechnics, software, design, graphics and art.
-
-## Latest articles devstratum.ru
-<!-- BLOG-POST-LIST:START -->
-- [Metadesc - редактирование мета тегов описания description для Joomla CMS](https://devstratum.ru/software/metadesc-redaktirovanie-meta-tegov-opisaniya-description-dlya-joomla-cms)
-- [Разгон CPU Xeon E5-2650 v2 и GPU Radeon RX 470](https://devstratum.ru/hardware/razgon-cpu-xeon-e5-2650-v2-i-gpu-radeon-rx-470)
-- [Amiga 1200 #03: контроллеры PS/2 клавиатуры и мыши, прошивка FDD Gotek](https://devstratum.ru/hardware/amiga-1200-03-kontrollery-ps-2-klaviatury-i-myshi-proshivka-fdd-gotek)
-- [Тестирование нейросети ESRGAN для детализации изображений](https://devstratum.ru/software/testirovanie-nejroseti-esrgan-dlya-detalizatsii-izobrazhenij)
-- [Feedback - модуль-конструктор простых контактных форм для Joomla CMS](https://devstratum.ru/software/feedback-modul-konstruktor-prostykh-kontaktnykh-form-dlya-joomla-cms)
-<!-- BLOG-POST-LIST:END -->
