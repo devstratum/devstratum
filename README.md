@@ -1,4 +1,4 @@
-# Hello!
+# Omnes Optimus!
 
 Development of websites, components, modules and plugins. Joomla CMS, Yii framework, Symfony framework.
 
