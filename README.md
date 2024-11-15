@@ -10,4 +10,4 @@ Joomla CMS, PHP Frameworks, JavaScript and more...
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-Computer hardware, electronics, retro technics, programming, design, graphics and art.
+Computers, electronics, retro technics, programming, design and graphics
